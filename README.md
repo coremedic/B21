@@ -11,4 +11,5 @@ This is a proof of concept and needs to be cleaned up.
 
 #### CREDIT
 [Kleiton Kurti](https://github.com/kleiton0x00) <br>
-[Paranoid Ninja](https://0xdarkvortex.dev/hiding-in-plainsight/)
+[Paranoid Ninja](https://0xdarkvortex.dev/hiding-in-plainsight) <br>
+[C5pider](https://github.com/Cracked5pider)
