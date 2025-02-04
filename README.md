@@ -4,7 +4,7 @@
 B21
 </h1>
 
-B21 is a sleep obfuscation technique that uses the `Tp*` syscalls to provide a clean call stack while obfuscating sleep. <br>
+B21 is a sleep obfuscation technique that uses the `Tp*` WINAPI functions to provide a clean call stack while obfuscating sleep. <br>
 
 #### WARNING
 This is a proof of concept and needs to be cleaned up.
